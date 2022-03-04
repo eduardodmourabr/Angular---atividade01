@@ -1,0 +1,24 @@
+*{
+    font-family:sans-serif;
+}
+main{
+    height:100ch;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    
+    
+}
+.leiaut{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-start;
+}
+.setor{
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+    margin: 10px 0;
+    
+}
+
